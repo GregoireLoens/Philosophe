@@ -1,0 +1,4 @@
+/home/loens_g/Documents/clion-2016.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/loens_g/rendu/TEK2/SystemUnix/PSU_2016_philo
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/loens_g/rendu/TEK2/SystemUnix/PSU_2016_philo/cmake-build-debug
